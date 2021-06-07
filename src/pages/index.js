@@ -12,7 +12,7 @@ const IndexPage = ({
   },
 }) => {
 
-  const Posts = edges
+  const posts = edges
     .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
 
@@ -25,7 +25,7 @@ const IndexPage = ({
       <HeroHeader/>
       <h2>Blog Posts &darr;</h2>
       <div className="grids">
-        {Posts}
+        {posts}
       </div>
     </Layout>
   )
