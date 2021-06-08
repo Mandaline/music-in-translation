@@ -53,11 +53,6 @@ collections:
           widget: hidden,
           default: BlogPost,
         }
-      - name: path
-        label: Path
-        widget: string
-        pattern: [/]
-        hint: "Path must start with /"
       - { name: date, label: Date, widget: datetime }
       - { name: title, label: Title }
       - label: Meta Description
@@ -73,12 +68,4 @@ collections:
           config:
             multiple: false
       - { name: body, label: Body, widget: markdown }
-  - label: "Post"
-    name: "post"
-    folder: "_posts/blog"
-    create: true
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Body", name: "body", widget: "markdown"}
+  
