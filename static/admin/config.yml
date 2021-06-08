@@ -1,7 +1,7 @@
 backend:
   name: github
   # change repo to your git repository url
-  repo: W3Layouts/gatsby-starter-delog
+  repo: https://amazing-perlman-68b5a5.netlify.app
 
 media_folder: static/assets
 public_folder: /assets
