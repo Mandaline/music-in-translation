@@ -44,7 +44,7 @@ collections:
   - name: blog
     label: Blog
     folder: _data/blog
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{slug}}'
     create: true
     fields:
       - {
@@ -57,7 +57,7 @@ collections:
       - { name: title, label: Title }
       - { label: "Author", name: "author", widget: "relation", 
           collection: "authors", 
-          value_field: "email", 
+          value_field: "name", 
           display_fields: [ "name" ], 
           search_fields: [ "name", "email" ] }
       - label: Meta Description
@@ -67,12 +67,13 @@ collections:
       - label: Featured Image
         name: thumbnail
         widget: image
-        hint: "Image size 1280x800 works best :)"
+        hint: "Image size 1200-1500"
         required: false
         media_library:
           config:
             multiple: false
-      - { name: body, label: Body, widget: markdown }
+      - { name: lyrics, label: Body, widget: markdown }
+      - { name: main, label: Body, widget: markdown }
   - name: authors
     label: Authors
     folder: _data/authors
@@ -80,10 +81,8 @@ collections:
     public_folder: ''
     format: json
     create: true
-    slug: "{{name}}"
+    slug: '{{name}}'
     fields:
       - { label: Name, name: name, widget: string }
-      - { label: Title, name: title, widget: string }
-      - { label: Email, name: email, widget: string }
       - { label: Shortbio, name: shortbio, widget: text }
       - { label: Image, name: authorimage, widget: image }
