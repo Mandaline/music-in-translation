@@ -3,7 +3,7 @@ path: /fillerama
 template: BlogPost
 date: 2020-02-20T14:59:36.571Z
 title: Dummy Content from Fillerama
-author: heloo@gmail.com
+author: Fito Paez
 thumbnail: /assets/fito-paez-63.jpg
 lyrics: >-
   1. line 1
