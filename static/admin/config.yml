@@ -55,6 +55,11 @@ collections:
         }
       - { name: date, label: Date, widget: datetime }
       - { name: title, label: Title }
+      - { label: "Author", name: "author", widget: "relation", 
+          collection: "authors", 
+          value_field: "email", 
+          display_fields: [ "name" ], 
+          search_fields: [ "name", "email" ] }
       - label: Meta Description
         name: metaDescription
         widget: text
@@ -68,4 +73,17 @@ collections:
           config:
             multiple: false
       - { name: body, label: Body, widget: markdown }
-  
+  - name: authors
+    label: Authors
+    folder: _data/authors
+    media_folder: ''
+    public_folder: ''
+    format: json
+    create: true
+    slug: "{{name}}"
+    fields:
+      - { label: Name, name: name, widget: string }
+      - { label: Title, name: title, widget: string }
+      - { label: Email, name: email, widget: string }
+      - { label: Shortbio, name: shortbio, widget: text }
+      - { label: Image, name: authorimage, widget: image }
