@@ -1,7 +1,7 @@
 backend:
   name: github
   # change repo to your git repository url
-  repo: https://amazing-perlman-68b5a5.netlify.app
+  repo: https://github.com/Mandaline/music-in-translation
 
 media_folder: static/assets
 public_folder: /assets
