@@ -72,8 +72,8 @@ collections:
         media_library:
           config:
             multiple: false
-      - { name: lyrics, label: Body, widget: markdown }
-      - { name: main, label: Body, widget: markdown }
+      - { name: lyrics, label: Lyrics, widget: markdown }
+      - { name: main, label: Main, widget: markdown }
   - name: authors
     label: Authors
     folder: _data/authors
