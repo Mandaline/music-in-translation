@@ -183,7 +183,6 @@ a {
 .post-thumbnail {
   text-align: center;
   min-height: 380px;
-  //background-image: url('/assets/circles-light.png');
   background-color: var(--featured-bg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -196,6 +195,8 @@ a {
   position: relative;
   padding: 18px;
   overflow: hidden;
+  max-width: 750px;
+  margin: 0 auto 70px;
   &:before {
     content: "";
     background: rgba(0,0,0,0.4);
@@ -307,9 +308,9 @@ a {
 /* Portrait and Landscape */
 @media only screen 
 and (min-width: 768px) {
-.grids {
-  grid-template-columns: 1fr 1fr;
-}
+  .grids {
+    grid-template-columns: 1fr 1fr;
+  }
 }
 @media only screen 
   and (min-width: 1024px) {
