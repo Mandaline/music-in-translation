@@ -83,7 +83,7 @@ main: >-
 
    a poor colony indian.
 
-   <br>
+   <hr />
 9. \#9
 
    cuando yo me vaya de aquí
@@ -110,7 +110,7 @@ main: >-
 
     or a Rosarino en Budapest.
 
-    <br>
+    <hr />
 14. \#14
 
     Quiero música y trajes de cualquier color
@@ -132,7 +132,7 @@ main: >-
 
     a revolution. 
 
-    <br>
+    <hr />
 18. \#18
 
     Cuando yo me vaya de aquí
@@ -154,7 +154,7 @@ main: >-
 
     and there will be more of my signs.
 
-    <br>
+    <hr />
 22. \#22
 
     Cuando yo me vaya de aquí
@@ -176,7 +176,7 @@ main: >-
 
     to run means to hurry.
 
-    <br>
+    <hr />
 26. \#26
 
     Por eso ahora entonces, cantaré, cantaré,
