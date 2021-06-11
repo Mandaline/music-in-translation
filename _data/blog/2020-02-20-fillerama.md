@@ -117,30 +117,91 @@ main: >-
     cuando yo me vaya de aquí.
 
     when I leave here.
+16. 16.
 
+    Quiero un sol un, un dígito que marque 3,
 
+    I want a sun a, a digit that marks 3
+17. 17.
 
+    una revolución.
 
+    a revolution. 
+18. 18.
 
+    Cuando yo me vaya de aquí
 
+    When I get out of here.
+19. 19.
 
+    me iré como cantando, acercándome
 
+    I’ll go singing, getting closer
+20. 20.
 
+    cortaré una lágrima con una Gillette
 
+    I’ll cut a tear with a Gillette
+21. 21.
 
+    y serán otras mis señales.
 
+    And there will be other of my signs
+22. 22.
 
+    Cuando yo me vaya de aquí
 
+    When I get out of here.
+23. 23.
 
+    tendré dos elefantes y no los veré
 
+    I’ll have two elephants and I won’t see them
+24. 24.
 
+    creo que hay motivos como para correr
 
+    I believe there are motives to run
+25. 25.
 
+    correr implica apresurarse.
 
+    To run means to hurry
+26. 26.
 
+    Por eso ahora entonces, cantaré, cantaré,
 
+    So for now then I’ll sing
+27. 27.
 
+    quiero una fiesta en mi alma.
 
+    I want a party in my heart
+28. 28.
+
+    Cantaré, cantaré, hasta que no quede nada
+
+    I’ll sing, I’ll sing, until there’s nothing left
+29. 29.
+
+    cantaré, cantaré, entre muñecas y latas
+
+    I’ll sing, I’ll sing, between dolls and cans
+30. 30.
+
+    Cantaré, cantaré, perro que canta no ladra
+
+    I’ll sing, I’ll sing, the dog that sings doesn’t bark
+31. 31.
+
+    Ladraré, ladraré, hasta que se agota la rabia
+
+    I’ll bark, I’ll bark, until the rage runs out
+32. 32.
+
+    Cantaré, cantaré, esa es mi única arma
+
+    I’ll sing, I’ll sing, it’s my only weapon
 
 
 
