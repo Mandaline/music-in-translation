@@ -6,26 +6,31 @@
   //}
   ol {
     padding: 0;
+    margin-bottom: 60px;
+  }
+  p {
+    line-height: 1.9em;
   }
   li {
     display: flex;
     margin: 0;
     p {
       margin-bottom: .5em;
+      line-height: 1.3em;
       &:first-of-type {
         color: var(--list-color);
-        width: 10%;
+        width: 8%;
         padding: 2px 15px 0px 0;
         font-size: .9rem;
       }
       &:nth-of-type(2n) {
         color: var(--spanish-color);
-        width: 45%;
+        width: 46%;
         padding: 0 0 0px;
       }
       &:nth-of-type(3n) {
         color: var(--english-color);
-        width: 45%;
+        width: 46%;
         padding: 0 0 0px 15px;
       }
     }
@@ -36,7 +41,7 @@
     
   }
   iframe {
-    margin: 0 auto 30px;
+    margin: 0 auto 70px;
     display: block;
   }
 }
