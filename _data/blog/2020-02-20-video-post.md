@@ -3,7 +3,7 @@ template: BlogPost
 path: /video-post
 date: 2020-02-20T15:05:49.332Z
 title: Lago en el Cielo
-author: Fito Paez
+author: Gustavo Cerati
 thumbnail: /assets/cerati-lago.jpg
 lyrics: >-
   
