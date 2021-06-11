@@ -2,7 +2,7 @@
 path: /fillerama
 template: BlogPost
 date: 2020-02-20T14:59:36.571Z
-title: Dummy Content from Fillerama
+title: Un Rosarino en Budapest
 author: Fito Paez
 thumbnail: /assets/fito-paez-63.jpg
 lyrics: >-
@@ -82,8 +82,6 @@ main: >-
    o un pobre indio de colonia.
 
    a poor colony indian.
-
-   <hr />
 9. \#9
 
    cuando yo me vaya de aquí
@@ -109,8 +107,6 @@ main: >-
     o un rosarino en Budapest.
 
     or a Rosarino en Budapest.
-
-    <hr />
 14. \#14
 
     Quiero música y trajes de cualquier color
@@ -131,8 +127,6 @@ main: >-
     una revolución.
 
     a revolution. 
-
-    <hr />
 18. \#18
 
     Cuando yo me vaya de aquí
@@ -153,8 +147,6 @@ main: >-
     y serán otras mis señales.
 
     and there will be more of my signs.
-
-    <hr />
 22. \#22
 
     Cuando yo me vaya de aquí
@@ -175,8 +167,6 @@ main: >-
     correr implica apresurarse.
 
     to run means to hurry.
-
-    <hr />
 26. \#26
 
     Por eso ahora entonces, cantaré, cantaré,
@@ -212,8 +202,6 @@ main: >-
     Cantaré, cantaré, esa es mi única arma.
 
     I’ll sing, I’ll sing, it’s my only weapon.
-
-
 
 Shibe woofer many pats ruff, adorable doggo wow such tempt. Such treat h*ck borkdrive doggorino snoot long water shoob, smol borking doggo with a long snoot for pats super chub big ol maximum borkdrive, he made many woofs long woofer much ruin diet doge. Fluffer extremely cuuuuuute floofs smol, aqua doggo. Sub woofer very good spot pupper waggy wags long* 
 
