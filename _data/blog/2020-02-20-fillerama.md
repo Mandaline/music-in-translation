@@ -54,14 +54,14 @@ main: >-
    Oh! When I leave here.
 3. 3.
 
-   Oh! te daré un beso y un rayo de luna.
+   Oh! Te daré un beso y un rayo de luna.
 
    Oh! I’ll give you a kiss and a moonbeam.
 4. 4. 
 
-   cuando yo me vaya de aquí.
+   Cuando yo me vaya de aquí
 
-   when I leave here.
+   When I leave here
 5. 5.
 
    me iré por todas partes
@@ -81,12 +81,12 @@ main: >-
 
    o un pobre indio de colonia.
 
-   a poor indian of a colony
+   a poor colony indian.
 9. 9.
 
-   Cuando yo me vaya de aquí
+   cuando yo me vaya de aquí
 
-   when I leave here.
+   when I leave here
 10. 10.
 
     me iré por todas partes
@@ -109,7 +109,7 @@ main: >-
     or a Rosarino en Budapest.
 14. 14.
 
-    quiero música y trajes de cualquier color
+    Quiero música y trajes de cualquier color
 
     I want music and suits of any color
 15. 15.
@@ -146,7 +146,7 @@ main: >-
 
     y serán otras mis señales.
 
-    And there will be other of my signs
+    and there will be more of my signs
 22. 22.
 
     Cuando yo me vaya de aquí
@@ -166,7 +166,7 @@ main: >-
 
     correr implica apresurarse.
 
-    To run means to hurry
+    to run means to hurry.
 26. 26.
 
     Por eso ahora entonces, cantaré, cantaré,
@@ -176,7 +176,7 @@ main: >-
 
     quiero una fiesta en mi alma.
 
-    I want a party in my heart
+    I want a party in my heart.
 28. 28.
 
     Cantaré, cantaré, hasta que no quede nada
@@ -184,24 +184,24 @@ main: >-
     I’ll sing, I’ll sing, until there’s nothing left
 29. 29.
 
-    cantaré, cantaré, entre muñecas y latas
+    Cantaré, cantaré, entre muñecas y latas.
 
-    I’ll sing, I’ll sing, between dolls and cans
+    I’ll sing, I’ll sing, between dolls and cans.
 30. 30.
 
-    Cantaré, cantaré, perro que canta no ladra
+    Cantaré, cantaré, perro que canta no ladra.
 
-    I’ll sing, I’ll sing, the dog that sings doesn’t bark
+    I’ll sing, I’ll sing, the dog that sings doesn’t bark.
 31. 31.
 
-    Ladraré, ladraré, hasta que se agota la rabia
+    Ladraré, ladraré, hasta que se agota la rabia.
 
-    I’ll bark, I’ll bark, until the rage runs out
+    I’ll bark, I’ll bark, until the rage runs out.
 32. 32.
 
-    Cantaré, cantaré, esa es mi única arma
+    Cantaré, cantaré, esa es mi única arma.
 
-    I’ll sing, I’ll sing, it’s my only weapon
+    I’ll sing, I’ll sing, it’s my only weapon.
 
 
 
