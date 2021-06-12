@@ -5,4 +5,4 @@ title: Pa' Dónde Se Fue
 author: Mon Laferte
 thumbnail: /assets/mon-la.jpeg
 ---
-https://www.youtube.com/watch?v=JhtuVCbGkCA
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JhtuVCbGkCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
