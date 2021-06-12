@@ -44,19 +44,19 @@ main: >-
 
 1. \#1
 
-   Te diré que hay otra música en el aire.
+   Te diré que hay otra música en el aire
 
-   I’ll tell you there’s another music in the air.
+   I’ll tell you there’s another music in the air
 2. \#2
 
-   Oh! Cuando yo me vaya de aquí.
+   Oh! Cuando yo me vaya de aquí
 
-   Oh! When I leave here.
+   Oh! When I leave here
 3. \#3
 
-   Oh! Te daré un beso y un rayo de luna.
+   Oh! Te daré un beso y un rayo de luna
 
-   Oh! I’ll give you a kiss and a moonbeam.
+   Oh! I’ll give you a kiss and a moonbeam
 4. \#4
 
    Cuando yo me vaya de aquí
@@ -79,125 +79,140 @@ main: >-
    duck, bed, black, white, guitar pick, corset
 8. \#8
 
-   o un pobre indio de colonia.
+   o un pobre indio de colonia
 
-   a poor colony indian.
-9. \#9
+   a poor colony indian
+
+***
+
+1. \#9
 
    cuando yo me vaya de aquí
 
    when I leave here
-10. \#10
+2. \#10
 
-    me iré por todas partes
+   me iré por todas partes
 
-    I’ll go everywhere
-11. \#11
+   I’ll go everywhere
+3. \#11
 
-    transformándome
+   transformándome
 
-    transforming
-12. \#12
+   transforming
+4. \#12
 
-    taza, pico, sexo, moño, caño, delay
+   taza, pico, sexo, moño, caño, delay
 
-    cup, peak, sex, bow tie, pipe, delay
-13. \#13
+   cup, peak, sex, bow tie, pipe, delay
+5. \#13
 
-    o un rosarino en Budapest.
+   o un rosarino en Budapest.
 
-    or a Rosarino en Budapest.
-14. \#14
+   or a Rosarino en Budapest.
 
-    Quiero música y trajes de cualquier color
+***
 
-    I want music and suits of any color
-15. \#15
+1. \#14
 
-    cuando yo me vaya de aquí.
+   Quiero música y trajes de cualquier color
 
-    when I leave here.
-16. \#16
+   I want music and suits of any color
+2. \#15
 
-    Quiero un sol un, un dígito que marque 3,
+   cuando yo me vaya de aquí.
 
-    I want a sun a, a digit that marks 3
-17. \#17
+   when I leave here.
+3. \#16
 
-    una revolución.
+   Quiero un sol un, un dígito que marque 3,
 
-    a revolution. 
-18. \#18
+   I want a sun a, a digit that marks 3
+4. \#17
+
+   una revolución.
+
+   a revolution.
+
+*** 
+
+1. \#18
 
     Cuando yo me vaya de aquí
 
     When I get out of here.
-19. \#19
+2. \#19
 
     me iré como cantando, acercándome
 
     I’ll go singing, getting closer
-20. \#20
+3. \#20
 
     cortaré una lágrima con una Gillette
 
     I’ll cut a tear with a Gillette
-21. \#21
+4. \#21
 
     y serán otras mis señales.
 
     and there will be more of my signs.
-22. \#22
+
+***
+
+1. \#22
 
     Cuando yo me vaya de aquí
 
     When I get out of here.
-23. \#23
+2. \#23
 
     tendré dos elefantes y no los veré
 
     I’ll have two elephants and I won’t see them
-24. \#24
+3. \#24
 
     creo que hay motivos como para correr
 
     I believe there are motives to run
-25. \#25
+4. \#25
 
     correr implica apresurarse.
 
     to run means to hurry.
-26. \#26
+
+***
+
+1. \#26
 
     Por eso ahora entonces, cantaré, cantaré,
 
     So for now then I’ll sing
-27. \#27
+2. \#27
 
     quiero una fiesta en mi alma.
 
     I want a party in my heart.
-28. \#28
+3. \#28
 
     Cantaré, cantaré, hasta que no quede nada
 
     I’ll sing, I’ll sing, until there’s nothing left
-29. \#29
+21. \#29
 
     Cantaré, cantaré, entre muñecas y latas.
 
     I’ll sing, I’ll sing, between dolls and cans.
-30. \#30
+22. \#30
 
     Cantaré, cantaré, perro que canta no ladra.
 
     I’ll sing, I’ll sing, the dog that sings doesn’t bark.
-31. \#31
+23. \#31
 
     Ladraré, ladraré, hasta que se agota la rabia.
 
     I’ll bark, I’ll bark, until the rage runs out.
-32. \#32
+24. \#32
 
     Cantaré, cantaré, esa es mi única arma.
 
