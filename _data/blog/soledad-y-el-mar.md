@@ -1,8 +1,8 @@
 ---
 template: BlogPost
 date: 2021-06-12T04:24:39.358Z
-title: Soledad y el Mar
-slug: natalia-lafourcade-soledad-mar
+title: Nunca Es Suficiente
+slug: natalia-lafourcade-nunca-suficiente
 author: Natalia Lafourcade
 thumbnail: /assets/angeles.jpg
 ---
