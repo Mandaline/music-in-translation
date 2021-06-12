@@ -197,22 +197,22 @@ main: >-
     Cantaré, cantaré, hasta que no quede nada
 
     I’ll sing, I’ll sing, until there’s nothing left
-21. \#29
+4. \#29
 
     Cantaré, cantaré, entre muñecas y latas.
 
     I’ll sing, I’ll sing, between dolls and cans.
-22. \#30
+5. \#30
 
     Cantaré, cantaré, perro que canta no ladra.
 
     I’ll sing, I’ll sing, the dog that sings doesn’t bark.
-23. \#31
+6. \#31
 
     Ladraré, ladraré, hasta que se agota la rabia.
 
     I’ll bark, I’ll bark, until the rage runs out.
-24. \#32
+7. \#32
 
     Cantaré, cantaré, esa es mi única arma.
 
