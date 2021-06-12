@@ -1,5 +1,6 @@
 ---
 template: BlogPost
+slug: mon-laferte-pa-donde-se-fue
 date: 2021-06-12T02:57:09.529Z
 title: Pa' Dónde Se Fue
 author: Mon Laferte

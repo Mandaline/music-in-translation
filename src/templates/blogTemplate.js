@@ -43,17 +43,17 @@ export default function Template({
 }
 
 export const pageQuery = graphql`
-  query($path: String!) {
+  query($slug: String!) {
     site {
       siteMetadata {
         title
       }
     }
-    markdownRemark(frontmatter: { path: { eq: $path } }) {
+    markdownRemark(frontmatter: { slug: { eq: $slug } }) {
       html
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
-        path
+        slug
         title
         thumbnail
         metaDescription

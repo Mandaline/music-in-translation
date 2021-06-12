@@ -1,5 +1,6 @@
 ---
 template: BlogPost
+slug: franny-glass-cine-libros
 date: 2021-06-12T02:15:51.779Z
 title: Cine y Libros
 author: Franny Glass

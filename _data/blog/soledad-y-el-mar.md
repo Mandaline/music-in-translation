@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /new-post
+slug: natalia-lafourcade-soledad-mar
 date: 2020-02-01T06:15:50.738Z
 title: Soledad y El Mar
 author: Natalia Lafourcade
