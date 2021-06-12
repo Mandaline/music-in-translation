@@ -2,7 +2,7 @@ import React from "react"
 import Helmet from 'react-helmet';
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
-import { post_content } from  '../styles/components/blog-template.module.scss';
+import { postContent } from  '../styles/components/blog-template.module.scss';
 
 export default function Template({
   data
@@ -33,7 +33,7 @@ export default function Template({
             </div>
           )}
           <div
-            className={post_content}
+            className={postContent}
             dangerouslySetInnerHTML={{ __html: html }}
           />
         </article>

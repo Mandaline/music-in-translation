@@ -1,14 +1,14 @@
-.theme_changer {
+.themeChanger {
   display: none;
 }
 
-.mode_container {
+.modeContainer {
   width: 24px;
   height: 24px;
   margin-left: 20px;
 }
 // CSS.gg icons for sun and moon
-.gg_sun {
+.ggSun {
   cursor: pointer;
   box-sizing: border-box;
   position: relative;
@@ -33,8 +33,8 @@
   box-shadow: inset 0 0 0 2px;
   border: 6px solid transparent
 }
-.gg_sun::after,
-.gg_sun::before {
+.ggSun::after,
+.ggSun::before {
   content: "";
   display: block;
   box-sizing: border-box;
@@ -46,19 +46,19 @@
   left: -6px;
   top: 5px
 }
-.gg_sun::before {
+.ggSun::before {
   transform: rotate(-45deg)
 }
-.gg_sun::after {
+.ggSun::after {
   transform: rotate(45deg)
 }
-.gg_moon,
-.gg_moon::after {
+.ggMoon,
+.ggMoon::after {
     display: block;
     box-sizing: border-box;
     border-radius: 50%
 }
-.gg_moon {
+.ggMoon {
     cursor: pointer;
     overflow: hidden;
     position: relative;
@@ -70,7 +70,7 @@
     margin-left: 2px;
     border-bottom-color: transparent
 }
-.gg_moon::after {
+.ggMoon::after {
     content: "";
     position: absolute;
     width: 12px;

@@ -45,7 +45,16 @@ module.exports = {
         icon: "src/images/icon.png",
       },
     },
-    `gatsby-plugin-sass`, 
+    {
+      resolve: 'gatsby-plugin-sass',
+      options: {
+        cssLoaderOptions: {
+          modules: {
+            exportLocalsConvention: 'camelCaseOnly'
+          }
+        }
+      }
+    },
     `gatsby-plugin-postcss`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-netlify-cms`,
