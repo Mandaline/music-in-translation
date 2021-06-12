@@ -10,7 +10,7 @@ export default function Template({
   const { site, markdownRemark } = data
   const { siteMetadata } = site
   const { frontmatter, html } = markdownRemark
-  
+  console.log(markdownRemark)
   return (
     <Layout>
       <Helmet>
