@@ -1,8 +1,8 @@
 ---
-slug: fito-paez-rosarino-budapest
 template: BlogPost
-date: 2020-02-20T14:59:36.571Z
+date: 2021-06-12T04:21:47.734Z
 title: Un Rosarino en Budapest
+slug: fito-paez-rosarino-budapest
 author: Fito Paez
 thumbnail: /assets/fito-paez-63.jpg
 ---
