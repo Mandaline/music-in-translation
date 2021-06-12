@@ -5,4 +5,4 @@ title: Cine y Libros
 author: Franny Glass
 thumbnail: /assets/franny-glass-cine.png
 ---
-https://www.youtube.com/embed/iCMIbQJ9DWw
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iCMIbQJ9DWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
