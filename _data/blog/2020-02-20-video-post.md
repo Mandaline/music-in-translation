@@ -4,7 +4,7 @@ path: /video-post
 date: 2020-02-20T15:05:49.332Z
 title: Lago en el Cielo
 author: Gustavo Cerati
-thumbnail: /assets/cerati-lago.jpg
+thumbnail: /assets/cerati-lago-cielo.jpg
 lyrics: >-
   
 
