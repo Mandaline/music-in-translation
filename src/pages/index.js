@@ -11,6 +11,7 @@ const IndexPage = ({
     allMarkdownRemark: { edges },
   },
 }) => {
+  console.log(edges)
   const posts = edges
     .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
@@ -48,7 +49,11 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             slug
             title
-            thumbnail
+            thumbnail {
+              childImageSharp {
+                gatsbyImageData(width: 320)
+              }
+            }
           }
         }
       }

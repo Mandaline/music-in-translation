@@ -3,6 +3,7 @@ import Helmet from 'react-helmet';
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import { postContent } from  '../styles/components/blog-template.module.scss';
+import { GatsbyImage } from "gatsby-plugin-image"
 
 export default function Template({
   data
@@ -10,7 +11,7 @@ export default function Template({
   const { site, markdownRemark } = data
   const { siteMetadata } = site
   const { frontmatter, html } = markdownRemark
-  console.log(markdownRemark)
+  //const image = frontmatter.thumbnail.childImageSharp.gatsbyImageData
   return (
     <Layout>
       <Helmet>
@@ -27,7 +28,7 @@ export default function Template({
             </div>
           )}
           {!!frontmatter.thumbnail && (
-            <div className="post-thumbnail" style={{backgroundImage: `url(${frontmatter.thumbnail})`}}>
+            <div className="post-thumbnail" style={{backgroundImage: `url(${frontmatter.thumbnail.publicURL})`}}>
               <h1 className="post-title">{frontmatter.title}</h1>
               <div className="post-meta">{frontmatter.date}</div>
             </div>
@@ -55,7 +56,12 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         slug
         title
-        thumbnail
+        thumbnail {
+          publicURL
+          childImageSharp {
+            gatsbyImageData(width: 786)
+          }
+        }
         metaDescription
       }
     }

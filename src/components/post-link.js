@@ -1,11 +1,14 @@
 import React from "react"
 import { Link } from "gatsby"
+import { GatsbyImage } from "gatsby-plugin-image"
 
-const PostLink = ({ post }) => (
+const PostLink = ({ post }) => {
+  const image = post.frontmatter.thumbnail.childImageSharp.gatsbyImageData
+  return (
   <article className="card">
     <Link to={`/${post.frontmatter.slug}`}>
       {!!post.frontmatter.thumbnail && (
-        <img src={post.frontmatter.thumbnail} alt={post.frontmatter.title + "- Featured Shot"} />
+        <GatsbyImage image={image} alt={post.frontmatter.title + "- Featured Shot"} />
       )}
     </Link>
     <header>
@@ -17,5 +20,6 @@ const PostLink = ({ post }) => (
       <div className="post-meta">{post.frontmatter.date}</div>
     </header>
   </article>
-)
+  )
+}
 export default PostLink
