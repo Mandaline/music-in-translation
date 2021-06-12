@@ -82,7 +82,6 @@ main: >-
    o un pobre indio de colonia
 
    a poor colony indian
-
 ***
 
 1. \#9
@@ -110,7 +109,6 @@ main: >-
    o un rosarino en Budapest.
 
    or a Rosarino en Budapest.
-
 ***
 
 1. \#14
@@ -133,7 +131,6 @@ main: >-
    una revolución.
 
    a revolution.
-
 *** 
 
 1. \#18
@@ -156,7 +153,6 @@ main: >-
     y serán otras mis señales.
 
     and there will be more of my signs.
-
 ***
 
 1. \#22
@@ -179,7 +175,6 @@ main: >-
     correr implica apresurarse.
 
     to run means to hurry.
-
 ***
 
 1. \#26
