@@ -1,8 +1,8 @@
 ---
 template: BlogPost
-slug: mon-laferte-pa-donde-se-fue
-date: 2021-06-12T02:57:09.529Z
+date: 2021-06-12T04:57:00.000Z
 title: Pa' Dónde Se Fue
+slug: mon-laferte-pa-donde-se-fue
 author: Mon Laferte
 thumbnail: /assets/la-trenza-monlaferte.jpg
 ---
