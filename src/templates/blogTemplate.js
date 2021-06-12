@@ -3,7 +3,6 @@ import Helmet from 'react-helmet';
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import { postContent } from  '../styles/components/blog-template.module.scss';
-import { GatsbyImage } from "gatsby-plugin-image"
 
 export default function Template({
   data

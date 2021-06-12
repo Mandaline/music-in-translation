@@ -231,7 +231,11 @@ a {
   &:hover .post-link {
     color: var(--primary-color);
   }
-  > a img {
+  .gatsby-image-wrapper {
+    width: 100%;
+    height: 320px; 
+  }
+  > a {
     display: block;
   }
   > header {
