@@ -49,6 +49,7 @@ export const pageQuery = graphql`
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             slug
+            author
             title
             thumbnail {
               childImageSharp {
