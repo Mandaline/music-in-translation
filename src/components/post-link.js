@@ -13,12 +13,16 @@ const PostLink = ({ post }) => {
       )}
     </Link>
     <header>
-      <h2 className="post-title">
-        <Link to={`/${post.frontmatter.slug}`} className="post-link">
-          {post.frontmatter.title}
-        </Link>
-      </h2>
-      <div className="post-meta">{post.frontmatter.author}</div>
+      
+        <h2 className="post-title">
+          <Link to={`/${post.frontmatter.slug}`} className="post-link">
+            {post.frontmatter.title}
+          </Link>
+        </h2>
+      <div className="post-meta">
+        <span className="post-author">{post.frontmatter.author}</span>
+        <span className="post-country">{post.frontmatter.country}</span>
+      </div>  
     </header>
   </article>
   )

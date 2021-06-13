@@ -267,8 +267,21 @@ a {
   }
 }
 .post-meta {
-  font-size: .95rem;
   color: var(--text-secondary-color);
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.post-author {
+  font-size: 1rem;
+}
+.post-country {
+  background-color: #3c3552;
+  padding: 3px 10px;
+  border-radius: 8px;
+  margin-top: -3px;
+  font-weight: 400;
+  font-size: .8rem;
 }
 .site-footer {
   text-align: center;
