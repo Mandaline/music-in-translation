@@ -4,6 +4,12 @@ date: 2021-06-12T04:21:47.734Z
 title: Un Rosarino en Budapest
 slug: fito-paez-rosarino-budapest
 author: Fito Paez
+country: Argentina
+tags:
+  - future
+  - tag
+  - tag
+  - tag
 thumbnail: /assets/fito-paez-63.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xI683w7asC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
