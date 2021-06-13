@@ -4,6 +4,7 @@ import { GatsbyImage } from "gatsby-plugin-image"
 
 const PostLink = ({ post }) => {
   const image = post.frontmatter.thumbnail.childImageSharp.gatsbyImageData
+  console.log(post.frontmatter.thumbnail)
   return (
   <article className="card">
     <Link to={`/${post.frontmatter.slug}`}>
