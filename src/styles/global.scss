@@ -233,7 +233,16 @@ a {
   }
   .gatsby-image-wrapper {
     width: 100%;
-    height: 320px; 
+    height: 380px; 
+    @include breakpoint-lg {
+      height: 355px; 
+    }
+  }
+  img {
+    object-position: 50% 0;
+    @include breakpoint-lg {
+      object-position: 50% 50%;
+    }
   }
   > a {
     display: block;

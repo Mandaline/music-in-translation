@@ -25,10 +25,12 @@ const Layout = ({ children }) => {
       </header>
       {children}
       <footer className="site-footer">
-        <p>&copy; {new Date().getFullYear()} Delog &bull; Crafted with <span role="img" aria-label="love">❤️</span> by <a href="https://w3layouts.com">W3Layouts</a></p>
+        <p>&copy; {new Date().getFullYear()} <a href="https://github.com/Mandaline">Mandaline</a></p>
       </footer>
     </div>
   )
 }
 
 export default Layout
+
+ //Delog &bull; Crafted with <span role="img" aria-label="love">❤️</span> by <a href="https://github.com/Mandaline">Mandaline</a></p>
