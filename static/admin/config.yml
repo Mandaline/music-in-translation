@@ -65,6 +65,8 @@ collections:
           value_field: "name", 
           display_fields: [ "name" ], 
           search_fields: [ "name", "email" ] }
+      - {label: "Country", name: "country", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list"}
       - label: Meta Description
         name: metaDescription
         widget: text
