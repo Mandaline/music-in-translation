@@ -87,7 +87,7 @@ collections:
     create: true
     slug: '{{name}}'
     fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "author"}
+      - {label: "Template", name: "template", widget: "hidden", default: "Author"}
       - { label: Name, name: name, widget: string }
       - { label: Shortbio, name: shortbio, widget: text }
       - { label: Image, name: authorimage, widget: image }
