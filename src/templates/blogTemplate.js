@@ -6,11 +6,13 @@ import Author from "../components/author"
 import { postContent } from  '../styles/components/blog-template.module.scss';
 
 export default function Template({
-  data
+  data, pageContext
 }) {
   const { site, markdownRemark } = data
   const { siteMetadata } = site
   const { frontmatter, html } = markdownRemark
+  const author = pageContext.author.node
+
   //const image = frontmatter.thumbnail.childImageSharp.gatsbyImageData
   return (
     <Layout>
@@ -38,7 +40,7 @@ export default function Template({
             dangerouslySetInnerHTML={{ __html: html }}
           />
         </article>
-        <Author info={frontmatter.author}/>
+        <Author info={author}/>
       </div>
     </Layout>
   )

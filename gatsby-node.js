@@ -16,6 +16,13 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
             id
             frontmatter {
               slug
+              template
+              author
+              name
+              shortbio
+              authorimage {
+                publicURL
+              }
             }
           }
         }
@@ -28,14 +35,19 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     reporter.panicOnBuild(`Error while running GraphQL query.`)
     return
   }
+  const posts = result.data.allMarkdownRemark.edges;
+  const blogs = posts.filter(post => post.node.frontmatter.template === 'BlogPost');
+  const authors = posts.filter(post => post.node.frontmatter.template === 'Author');
+  console.log("blogs", blogs)
 
-  result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-    const url = `/${node.frontmatter.slug}`
+  blogs.forEach(edge => {
+    const url = `/${edge.node.frontmatter.slug}`
     createPage({
       path: url,
       component: blogPostTemplate,
       context: {
-        slug: node.frontmatter.slug
+        slug: edge.node.frontmatter.slug,
+        author: authors.find((author) => author.node.frontmatter.name === edge.node.frontmatter.author)
       }
     })
   })
