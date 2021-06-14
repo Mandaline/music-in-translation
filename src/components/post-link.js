@@ -21,7 +21,7 @@ const PostLink = ({ post }) => {
         </h2>
       <div className="post-meta">
         <span className="post-author">{post.frontmatter.author}</span>
-        <span className="post-country">{post.frontmatter.country}</span>
+        {post.frontmatter.country && <span className="post-country">{post.frontmatter.country}</span>}
       </div>  
     </header>
   </article>

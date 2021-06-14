@@ -2,6 +2,7 @@ import React from "react"
 import Helmet from 'react-helmet';
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
+import Author from "../components/author"
 import { postContent } from  '../styles/components/blog-template.module.scss';
 
 export default function Template({
@@ -23,13 +24,13 @@ export default function Template({
           {!frontmatter.thumbnail && (
             <div className="post-thumbnail">
               <h1 className="post-title">{frontmatter.title}</h1>
-              <div className="post-meta">{frontmatter.date}</div>
+              <div className="post-author">{frontmatter.author}</div>
             </div>
           )}
           {!!frontmatter.thumbnail && (
             <div className="post-thumbnail" style={{backgroundImage: `url(${frontmatter.thumbnail.publicURL})`}}>
               <h1 className="post-title">{frontmatter.title}</h1>
-              <div className="post-meta">{frontmatter.date}</div>
+              <div className="post-author">{frontmatter.author}</div>
             </div>
           )}
           <div
@@ -37,6 +38,7 @@ export default function Template({
             dangerouslySetInnerHTML={{ __html: html }}
           />
         </article>
+        <Author info={frontmatter.author}/>
       </div>
     </Layout>
   )
