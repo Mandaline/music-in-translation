@@ -23,6 +23,7 @@ body.light {
   --english-color: #1a1379;
   --list-color: #cfcccc;
   --secondary-color: #10072b;
+  --badge-color: #d3d6e7;
   --background: #fff;
   --site-header: var(--background);
   --card-bg: #fff;
@@ -43,6 +44,7 @@ body.dark {
   --featured-bg: #66578d;
   --featured-text: #fff;
   --secondary-color: #66578d;
+  --badge-color: #3c3552;
   --background: #0A041A;
   --text-color: #e2dfed;
   --list-color: #443d54;
@@ -276,7 +278,7 @@ a {
   font-size: 1rem;
 }
 .post-country {
-  background-color: #3c3552;
+  background-color: var(--badge-color);
   padding: 3px 10px;
   border-radius: 8px;
   margin-top: 2px;
