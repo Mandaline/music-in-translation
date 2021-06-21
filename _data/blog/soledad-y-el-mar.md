@@ -93,3 +93,68 @@ thumbnail: /assets/tierra-veracruzana.jpeg
 
    Is something unconditional
 ***
+
+1. \#16
+
+   Y tú te vas, jugando a enamorar
+
+   And you go, playing at falling in love
+2. \#17
+
+   Te enredas por las noches
+
+   You get tangled up at night
+3. \#18
+
+   Entre historias que nunca tienen final
+
+   Between stories that never have an end
+4. \#19
+
+   Te perderás dentro de mis recuerdos
+
+   You will get lost inside my memories
+4. \#20
+
+   Por haberme hecho llorar
+
+   For having made me cry
+***
+
+1. \#21
+
+   Nunca es suficiente para mí
+
+   It's never enough for me
+2. \#22
+
+   Porque siempre quiero más de ti
+
+   Because I always want more from you
+3. \#23
+
+   No ha cambiado nada mi sentir
+
+   My feelings have not changed at all
+4. \#24
+
+   Aunque me haces mal, te quiero aquí
+
+   Even though you do me wrong, I want you here
+***
+
+1. \#25
+
+   Mi corazón estalla de dolor
+
+   My heart bursts with pain
+2. \#26
+
+   ¿Cómo evitar que se fracture en mil?
+
+   How to stop it from breaking into a thousand pieces?
+3. \#27
+
+   Acostumbrado estás tanto al amor
+
+   You don't see it, I've never been like this
