@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-date: 2021-06-12T04:21:47.734Z
+date: 2021-06-12T04:24:47.734Z
 title: Un Rosarino en Budapest
 slug: fito-paez-rosarino-budapest
 author: Fito Paez
