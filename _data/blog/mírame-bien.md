@@ -42,7 +42,7 @@ thumbnail: /assets/unplugged-julietav.jpg
    Not accept that everything is fine already
 2. \#6
 
-   La historia que escribimos se puede borrar tambien
+   La historia que escribimos se puede borrar también
 
    The story that we wrote can be erased also
 3. \#7
