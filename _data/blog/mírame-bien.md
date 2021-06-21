@@ -19,7 +19,7 @@ thumbnail: /assets/unplugged-julietav.jpg
    We have to learn everything over again
 2. \#2
 
-   Yo a quererte a ti y tu a quererme a mi tambien
+   Yo a quererte a ti y tu a quererme a mi también
 
    Me, to love you and you to love me too
 3. \#3
