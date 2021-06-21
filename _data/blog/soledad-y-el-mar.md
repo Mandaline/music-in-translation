@@ -31,3 +31,65 @@ thumbnail: /assets/tierra-veracruzana.jpeg
    Hoy, mañana, siempre, hasta el fin
 
    Today, tomorrow, always, until the end
+***
+
+1. \#5
+
+   Mi corazón estalla por tu amor
+
+   My heart bursts from your love
+2. \#6
+
+   Y tú, ¿qué crees? ¿Que esto es muy normal?
+
+   And what do you believe? That this is very normal?
+3. \#7
+
+   Acostumbrado estás tanto al amor
+
+   You are so used to love
+4. \#8
+
+   Que no lo ves, yo nunca he estado así
+
+   You don't see it, I've never been like this
+***
+
+1. \#9
+
+   Si de casualidad
+
+   If by chance
+2. \#10
+
+   Me ves llorando un poco
+
+   You see me crying a little
+3. \#11
+
+   Es porque yo te quiero a ti
+
+   It’s because I love you
+***
+
+1. \#12
+
+   Y tú te vas, jugando a enamorar
+
+   And you go, playing at falling in love
+2. \#13
+
+   Todas las ilusiones vagabundas que se dejan alcanzar
+
+   All the wandering illusions let themselves be reached
+3. \#14
+
+   Y no verás que lo que yo te ofrezco
+
+   And you will not see that what I offer you
+4. \#15
+
+   Es algo incondicional
+
+   Is something unconditional
+***
