@@ -14,7 +14,7 @@ body {
 * {
   margin-top: 0
 }
-body.light {
+body.dark {
   --primary-color: #381696;
   --primary-text-color: #fff;
   --featured-bg: #493b8a;
@@ -38,7 +38,7 @@ body.light {
   --contact-bdr: #d3d6e7;
   --input-bg: var(--background);
 }
-body.dark {
+body.light {
   --primary-color: #9984d5;
   --primary-text-color: #fff;
   --featured-bg: #66578d;

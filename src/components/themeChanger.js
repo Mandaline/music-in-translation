@@ -14,8 +14,8 @@ const ThemeChanger = () => (
           checked={theme === 'dark'}
         />{' '}
         <div className={modeContainer}>
-          {theme === 'dark' && <i className={ggSun}></i>}
-          {theme === 'light' && <i className={ggMoon}></i>}
+          {theme === 'light' && <i className={ggSun}></i>}
+          {theme === 'dark' && <i className={ggMoon}></i>}
         </div>
       </label>
     )}
