@@ -44,7 +44,7 @@ thumbnail: /assets/unplugged-julietav.jpg
 
    La historia que escribimos se puede borrar también
 
-   The story that we wrote can be erased also
+   The story that we wrote can also be erased
 3. \#7
 
    Olvidar que lo nuestro fue una fuerza
