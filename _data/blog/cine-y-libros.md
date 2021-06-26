@@ -120,3 +120,73 @@ thumbnail: /assets/franny.jpg
    Aceptarte como una chica totalmente transformada
 
    Accept you as a totally transformed girl
+13. \#9
+
+   Luego por orgullo por capricho
+
+   Later for pride, on impulse
+14. \#10
+
+   Nos dejamos de mirar
+ 
+   We stopped seeing each other
+
+15. \#11
+
+   Y ahora entiendo cómo las personas se dejan de saludar
+
+   And now I understand how people stop saying hi to each other
+
+16. \#12
+
+   Ahora estas tomando sol
+
+   Now you’re sunbathing
+
+17. \#13
+
+   Tomando clases de inglés
+
+   Taking English classes
+
+18. \#14
+
+   Todas esas cosas para estar mejor
+
+   All these things to be better
+
+19. \#15
+
+   Queres dejar de fumar
+
+   You want to stop smoking
+
+20. \#16
+
+   Tu cabeza va a estallar
+
+   Your head is going to burst
+
+21. \#17
+
+   Si no estás en forma quien te va a querer
+
+   If you’re not in shape who is going to love you
+
+22. \#18
+
+   Y te estas quejando que en la radio ya no pasan tu canción
+
+   And you're complaining that your song no longer plays on the radio
+
+23. \#19
+
+   Te juntas a hablar de cine y libros
+
+   You get together to talk about movies and books
+
+24. \#20
+
+   Queres más información
+
+   You want more information
