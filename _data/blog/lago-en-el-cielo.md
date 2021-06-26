@@ -7,8 +7,13 @@ author: Gustavo Cerati
 country: Argentina
 tags:
   - tag
+metaDescription: Love and mountain lakes
 thumbnail: /assets/gustavo-cerati-bocanada.jpg
 ---
+Cerati takes a poetic turn in this song, using the meditative image of the "lake in the sky"-- bringing to mind one of Patagonia's intensely blue mountain lakes-- to relate to a relationship that needs to take it's time.
+
+A fun note is that the video is composed of several fan-made videos submitted for a competition. The best parts of several were chosen and brought together to make a surprisingly compelling clip.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yywL2rc-QZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. \#1
@@ -75,7 +80,7 @@ thumbnail: /assets/gustavo-cerati-bocanada.jpg
 
    More than you promised
 
-- - -    
+- - -
 
 1. \#13
 
@@ -135,7 +140,6 @@ thumbnail: /assets/gustavo-cerati-bocanada.jpg
    Para olvidar lo que hiciste
 
    To forget what you did
-
 7. \#24
 
    Sentir algo que nunca sentiste
@@ -154,7 +158,7 @@ thumbnail: /assets/gustavo-cerati-bocanada.jpg
    Y sacudiste las más sólidas tristezas
 
    And you shook my firmest sadnesses
-2. \#27
+3. \#27
 
    Y respondiste cada vez que te he llamado
 
@@ -172,37 +176,37 @@ thumbnail: /assets/gustavo-cerati-bocanada.jpg
    Para encontrarnos
 
    To find each other
-2. \#29
+3. \#29
 
    El tiempo es arena en mis manos
 
    Time is sand in my hands
-3. \#30
+4. \#30
 
    Un lago en el cielo
 
    A lake in the sky
-4. \#31
+5. \#31
 
    Es mi regalo
 
    It’s my gift
-5. \#32
+6. \#32
 
    Para olvidar lo que hiciste
 
    To forget what you did
-6. \#33
+7. \#33
 
    Y sentir algo que nunca sentiste
 
    And feel something you’ve never felt
-7. \#34
+8. \#34
 
    Y hacerte sentir
 
    And make yourself feel
-8. \#35
+9. \#35
 
    Algo que nunca sentiste
 
