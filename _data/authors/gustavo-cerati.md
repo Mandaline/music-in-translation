@@ -1,9 +1,9 @@
 ---
 template: Author
 name: Gustavo Cerati
-shortbio: As the front man of Soda Stereo, one of the definitive groups of the
-  80s and 90s, Cerati's voice and lyrics became some of the most recognizable in
-  all of Latin American. He continued as a soloist from 1999-2010 before
-  suffering a stroke that would ultimately lead to his early passing.
+shortbio: Cerati's voice is one of the most recognizable in Latin American
+  music. He was the front man of the group Soda Stereo in the 80s and 90s before
+  continuing as a soloist from 1999-2010. He suffered a stroke while on tour
+  that would ultimately lead to his early passing.
 authorimage: /assets/gustavo-cerati-boca.jpg
 ---
