@@ -57,14 +57,14 @@ thumbnail: /assets/la-trenza-monlaferte.jpg
 
 1. \#9
 
-   Cómo primavera entre corta'
+   Cómo primavera entrecorta'
 
-   ??
+   Like a faltering spring
 2. \#10
 
    Yo me quedé a la mitad
 
-   I stayed in the middle
+   I stopped halfway
 3. \#11
 
    Hasta hoy me siento en soledad
@@ -136,14 +136,14 @@ thumbnail: /assets/la-trenza-monlaferte.jpg
 
 1. \#23
 
-   Cómo primavera entre corta'
+   Cómo primavera entrecorta'
 
-   ??
+   Like a faltering spring
 2. \#24
 
    Yo me quedé a la mitad
 
-   I stayed in the middle
+   I stopped halfway
 3. \#25
 
    Hasta hoy me siento en soledad
