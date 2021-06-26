@@ -10,7 +10,7 @@ tags:
 metaDescription: Difficult romances and still mountain spaces
 thumbnail: /assets/gustavo-cerati-bocanada.jpg
 ---
-Cerati takes a poetic turn in this song, using the meditative image of the "lake in the sky"—bringing to mind one of the intensely blue mountain lakes of Patagonia in his home country—to describe a relationship that needs to take it's time.
+Cerati takes a poetic turn in this song, using the meditative image of the "lake in the sky"—bringing to mind one of the intensely blue mountain lakes of Patagonia in his home country—to describe a relationship that needs to take its time.
 
 A fun fact is that the official video is composed of several fan-made videos submitted for a competition. The best parts of several were brought together to make a surprisingly compelling clip.
 
