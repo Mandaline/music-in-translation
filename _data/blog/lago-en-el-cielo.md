@@ -5,8 +5,7 @@ title: Lago en el Cielo
 slug: gustavo-cerati-lago-cielo
 author: Gustavo Cerati
 country: Argentina
-tags:
-  - tag
+tags: []
 metaDescription: Difficult romances and still mountain spaces
 thumbnail: /assets/gustavo-cerati-bocanada.jpg
 ---
