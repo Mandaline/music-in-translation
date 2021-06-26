@@ -12,7 +12,7 @@ thumbnail: /assets/gustavo-cerati-bocanada.jpg
 ---
 Cerati takes a poetic turn in this song, using the meditative image of the "lake in the sky"-- bringing to mind one of the intensely blue mountain lakes of Patagonia in his home country-- to describe a relationship that needs to take it's time.
 
-A fun note is that the official video is composed of several fan-made videos submitted for a competition. The best parts of several were brought together to make a surprisingly compelling clip.
+A fun fact is that the official video is composed of several fan-made videos submitted for a competition. The best parts of several were brought together to make a surprisingly compelling clip.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yywL2rc-QZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
