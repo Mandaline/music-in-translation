@@ -1,9 +1,9 @@
 {
-  "title": "Songs in translation",
-  "siteUrl": "https://amazing-perlman-68b5a5.netlify.app/",
-  "description": "A curated playlist of classic Spanish language songs with translations and notes",
+  "title": "Spanish playlist",
+  "siteUrl": "https://spanishplaylist.com/",
+  "description": "A curated playlist of Spanish language songs with translations and notes",
   "home": {
     "title": "Learn Spanish with music",
-    "description": "A curated playlist of classic Spanish language songs with translations and notes"
+    "description": "A curated playlist of Spanish language songs with translations and notes"
   }
 }
