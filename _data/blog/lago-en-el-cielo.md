@@ -217,7 +217,7 @@ A fun fact is that the official video is composed of several fan-made videos sub
 
 (#6) Subjective alert! *Puede que no haya*
 
-*Puede que* introduces doubt here. It may be that there are no...
+*Puede que* introduces doubt. "It may be that there are no..."
 
 So the verb *hay* (there is/are) becomes *haya*
 
