@@ -196,7 +196,10 @@ a {
   padding: 18px;
   overflow: hidden;
   max-width: 750px;
-  margin: 0 auto 70px;
+  margin: 0 auto 50px;
+  @include breakpoint-sm {
+    margin: 0 auto 70px;
+  }
   &:before {
     content: "";
     background: rgba(0,0,0,0.4);

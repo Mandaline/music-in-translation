@@ -3,7 +3,7 @@ import Helmet from 'react-helmet';
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import Author from "../components/author"
-import { postContent } from  '../styles/components/blog-template.module.scss';
+import { description, postContent } from  '../styles/components/blog-template.module.scss';
 
 export default function Template({
   data, pageContext
@@ -35,6 +35,7 @@ export default function Template({
               <div className="post-author">{frontmatter.author}</div>
             </div>
           )}
+          <h2 className={description}>{frontmatter.metaDescription}</h2>
           <div
             className={postContent}
             dangerouslySetInnerHTML={{ __html: html }}
