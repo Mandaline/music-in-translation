@@ -100,117 +100,126 @@ thumbnail: /assets/franny.jpg
    Yo te hice sentir a salvo y luego me empezaste a idealizar
 
    I made you feel safe and then you started to idealize me
-9. \#18
+
+- - -
+
+1. \#18
 
    Te prometí que pronto te ibas a aburrir de mi
 
    I promised you that soon you were going to get bored of me
-10. \#19
+2. \#19
 
    Y soltaste una carcajada
 
    And you let out a loud laugh
-11. \#20
+3. \#20
 
    Buscabas tu bienestar
 
    You were looking for your wellbeing
-12. \#21
+4. \#21
 
    Aceptarte como una chica totalmente transformada
 
    Accept you as a totally transformed girl
-13. \#22
+5. \#22
 
    Luego por orgullo por capricho
 
    Later for pride, on impulse
-14. \#23
+6. \#23
 
    Nos dejamos de mirar
  
    We stopped seeing each other
-15. \#24
+7. \#24
 
    Y ahora entiendo cómo las personas se dejan de saludar
 
    And now I understand how people stop saying hi to each other
-16. \#25
+
+- - -
+
+1. \#25
 
    Ahora estas tomando sol
 
    Now you’re sunbathing
-17. \#26
+2. \#26
 
    Tomando clases de inglés
 
    Taking English classes
-18. \#27
+3. \#27
 
    Todas esas cosas para estar mejor
 
    All these things to be better
-19. \#28
+4. \#28
 
    Queres dejar de fumar
 
    You want to stop smoking
-20. \#29
+5. \#29
 
    Tu cabeza va a estallar
 
    Your head is going to burst
-21. \#30
+6. \#30
 
    Si no estás en forma quien te va a querer
 
    If you’re not in shape who is going to love you
-22. \#31
+7. \#31
 
    Y te estas quejando que en la radio ya no pasan tu canción
 
    And you're complaining that your song no longer plays on the radio
-23. \#32
+
+- - -
+
+1. \#32
 
    Te juntas a hablar de cine y libros
 
    You get together to talk about movies and books
-24. \#33
+2. \#33
 
    Queres más información
 
    You want more information
-25. \#34
+3. \#34
 
    No guardo rencores más
 
    I don't hold grudges anymore
-26. \#35
+4. \#35
 
    Me alegro de como estas
 
    I’m happy for how you’re doing
-27. \#36
+5. \#36
 
    Aunque no se si tu imagen es real
 
    Although I don’t know if your image is real
-28. \#37
+6. \#37
 
    Yo por cierto estoy mejor
 
    I’m certainly better
-29. \#38
+7. \#38
 
    Se que hablaste mal de mi
 
    I know that you spoke badly of me
-30. \#39
+8. \#39
 
    No te culpo, no te quiero
 
    I don't blame you, I don't love you
-31. \#40
+9. \#40
 
    Pero al menos tengo esta canción
 
