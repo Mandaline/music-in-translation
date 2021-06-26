@@ -131,7 +131,7 @@ thumbnail: /assets/franny.jpg
 6. \#23
 
    Nos dejamos de mirar
- 
+
    We stopped seeing each other
 7. \#24
 
