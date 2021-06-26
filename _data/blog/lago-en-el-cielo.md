@@ -217,14 +217,24 @@ A fun fact is that the official video is composed of several fan-made videos sub
 
 (#6) Subjective alert! *Puede que no haya*
 
-*Puede que* introduces the subjective here. It may be that there are no...
+*Puede que* introduces doubt here. It may be that there are no...
 
 So the verb *hay* (there is/are) becomes *haya*
 
-(#16) Other ways to say *No me hagas caso*
+
+
+(#16) Other ways to say: *No me hagas caso*
 
 Ignore me
 
 Don’t listen to me
 
 Don’t pay attention to me
+
+
+
+(#17) Useful phrase: *No puedo con algo*
+
+*No puedo con esto!*  I can't do this!
+
+*Ya no puedo con él.*  I can't handle him anymore.
