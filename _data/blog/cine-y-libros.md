@@ -60,133 +60,174 @@ thumbnail: /assets/franny.jpg
 
 - - -
 
-1. \#9
+1. \#10
 
    Vivías un despertar
 
    You had an awakening
-2. \#10
+2. \#11
 
    Te animaste a leer
 
    You wanted to read
-3. \#11
+3. \#12
 
    Te recomendé algunos autores
 
    I recommended you some authors
-4. \#12
+4. \#13
 
    Nunca te quise tocar
 
    I never wanted to touch you
-5. \#13
+5. \#14
 
    Tampoco te vi llorar
 
    Nor see you cry
-6. \#14
+6. \#15
 
    Me dijiste que tenías miedo
 
    You told me your were afraid
-7. \#15
+7. \#16
 
    Tomaste mi mano en el cine y comenzaste a transpirar
 
    You took my hand in the movie theater and started to sweat
-8. \#16
+8. \#17
 
    Yo te hice sentir a salvo y luego me empezaste a idealizar
 
    I made you feel safe and then you started to idealize me
-9. \#17
+9. \#18
 
    Te prometí que pronto te ibas a aburrir de mi
 
    I promised you that soon you were going to get bored of me
-10. \#18
+10. \#19
 
    Y soltaste una carcajada
 
    And you let out a loud laugh
-11. \#19
+11. \#20
 
    Buscabas tu bienestar
 
    You were looking for your wellbeing
-12. \#20
+12. \#21
 
    Aceptarte como una chica totalmente transformada
 
    Accept you as a totally transformed girl
-13. \#9
+13. \#22
 
    Luego por orgullo por capricho
 
    Later for pride, on impulse
-14. \#10
+14. \#23
 
    Nos dejamos de mirar
  
    We stopped seeing each other
 
-15. \#11
+15. \#24
 
    Y ahora entiendo cómo las personas se dejan de saludar
 
    And now I understand how people stop saying hi to each other
 
-16. \#12
+16. \#25
 
    Ahora estas tomando sol
 
    Now you’re sunbathing
 
-17. \#13
+17. \#26
 
    Tomando clases de inglés
 
    Taking English classes
 
-18. \#14
+18. \#27
 
    Todas esas cosas para estar mejor
 
    All these things to be better
 
-19. \#15
+19. \#28
 
    Queres dejar de fumar
 
    You want to stop smoking
 
-20. \#16
+20. \#29
 
    Tu cabeza va a estallar
 
    Your head is going to burst
 
-21. \#17
+21. \#30
 
    Si no estás en forma quien te va a querer
 
    If you’re not in shape who is going to love you
 
-22. \#18
+22. \#31
 
    Y te estas quejando que en la radio ya no pasan tu canción
 
    And you're complaining that your song no longer plays on the radio
 
-23. \#19
+23. \#32
 
    Te juntas a hablar de cine y libros
 
    You get together to talk about movies and books
 
-24. \#20
+24. \#33
 
    Queres más información
 
    You want more information
+25. \#34
+
+   No guardo rencores más
+
+   I don't hold grudges anymore
+
+26. \#35
+
+   Me alegro de como estas
+
+   I’m happy for how you’re doing
+
+27. \#36
+
+   Aunque no se si tu imagen es real
+
+   Although I don’t know if your image is real
+
+28. \#37
+
+   Yo por cierto estoy mejor
+
+   I’m certainly better
+
+29. \#38
+
+   Se que hablaste mal de mi
+
+   I know that you spoke badly of me
+
+30. \#39
+
+   No te culpo, no te quiero
+
+   I don't blame you, I don't love you
+
+31. \#40
+
+   Pero al menos tengo esta canción
+
+   But at least I have this song
