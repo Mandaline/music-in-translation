@@ -89,7 +89,7 @@ thumbnail: /assets/franny.jpg
 
    Me dijiste que tenías miedo
 
-   You told me your were afraid
+   You told me you were afraid
 7. \#16
 
    Tomaste mi mano en el cine y comenzaste a transpirar
