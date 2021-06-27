@@ -5,9 +5,8 @@ title: Mírame Bien
 slug: julieta-venegas-mirame-bien
 author: Julieta Venegas
 country: Mexico
-tags:
-  - future
-metaDescription: A meta
+tags: []
+metaDescription: ""
 thumbnail: /assets/unplugged-julietav.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tC_p0KJCNow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
