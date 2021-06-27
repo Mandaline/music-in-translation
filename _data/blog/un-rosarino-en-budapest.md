@@ -5,13 +5,12 @@ title: Un Rosarino en Budapest
 slug: fito-paez-rosarino-budapest
 author: Fito Paez
 country: Argentina
-tags:
-  - future
-  - tag
-  - tag
-  - tag
+tags: []
+metaDescription: Get out your multi-colored suits and take a trip
 thumbnail: /assets/fito-paez-63.jpg
 ---
+On first read, this song seems like an anthem about escaping a provincial town—"Wait till I get out of here and explore the world!" However, it could be that Paez is actually describing a life-after-death experience: transforming into inanimate objects, singing while he’s getting closer (to what?) and leaving signs. Peaz loves to leave his songs ambiguous so it’s up to the listener to decide. In either case, it sounds like he plans to party.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xI683w7asC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. \#1
@@ -54,7 +53,8 @@ thumbnail: /assets/fito-paez-63.jpg
    o un pobre indio de colonia
 
    a poor colony indian
-***
+
+- - -
 
 1. \#9
 
@@ -81,7 +81,8 @@ thumbnail: /assets/fito-paez-63.jpg
    o un rosarino en Budapest.
 
    or a Rosarino en Budapest.
-***
+
+- - -
 
 1. \#14
 
@@ -103,84 +104,87 @@ thumbnail: /assets/fito-paez-63.jpg
    una revolución.
 
    a revolution.
-*** 
+
+- - -
 
 1. \#18
 
-    Cuando yo me vaya de aquí
+   Cuando yo me vaya de aquí
 
-    When I get out of here.
+   When I get out of here.
 2. \#19
 
-    me iré como cantando, acercándome
+   me iré como cantando, acercándome
 
-    I’ll go singing, getting closer
+   I’ll go singing, getting closer
 3. \#20
 
-    cortaré una lágrima con una Gillette
+   cortaré una lágrima con una Gillette
 
-    I’ll cut a tear with a Gillette
+   I’ll cut a tear with a Gillette
 4. \#21
 
-    y serán otras mis señales.
+   y serán otras mis señales.
 
-    and there will be more of my signs.
-***
+   and there will be more of my signs.
+
+- - -
 
 1. \#22
 
-    Cuando yo me vaya de aquí
+   Cuando yo me vaya de aquí
 
-    When I get out of here.
+   When I get out of here.
 2. \#23
 
-    tendré dos elefantes y no los veré
+   tendré dos elefantes y no los veré
 
-    I’ll have two elephants and I won’t see them
+   I’ll have two elephants and I won’t see them
 3. \#24
 
-    creo que hay motivos como para correr
+   creo que hay motivos como para correr
 
-    I believe there are motives to run
+   I believe there are motives to run
 4. \#25
 
-    correr implica apresurarse.
+   correr implica apresurarse.
 
-    to run means to hurry.
-***
+   to run means to hurry.
+
+- - -
 
 1. \#26
 
-    Por eso ahora entonces, cantaré, cantaré,
+   Por eso ahora entonces, cantaré, cantaré,
 
-    So for now then I’ll sing
+   So for now then I’ll sing
 2. \#27
 
-    quiero una fiesta en mi alma.
+   quiero una fiesta en mi alma.
 
-    I want a party in my heart.
+   I want a party in my heart.
 3. \#28
 
-    Cantaré, cantaré, hasta que no quede nada
+   Cantaré, cantaré, hasta que no quede nada
 
-    I’ll sing, I’ll sing, until there’s nothing left
+   I’ll sing, I’ll sing, until there’s nothing left
 4. \#29
 
-    Cantaré, cantaré, entre muñecas y latas.
+   Cantaré, cantaré, entre muñecas y latas.
 
-    I’ll sing, I’ll sing, between dolls and cans.
+   I’ll sing, I’ll sing, between dolls and cans.
 5. \#30
 
-    Cantaré, cantaré, perro que canta no ladra.
+   Cantaré, cantaré, perro que canta no ladra.
 
-    I’ll sing, I’ll sing, the dog that sings doesn’t bark.
+   I’ll sing, I’ll sing, the dog that sings doesn’t bark.
 6. \#31
 
-    Ladraré, ladraré, hasta que se agota la rabia.
+   Ladraré, ladraré, hasta que se agota la rabia.
 
-    I’ll bark, I’ll bark, until the rage runs out.
+   I’ll bark, I’ll bark, until the rage runs out.
 7. \#32
 
-    Cantaré, cantaré, esa es mi única arma.
+   Cantaré, cantaré, esa es mi única arma.
 
-    I’ll sing, I’ll sing, it’s my only weapon.
+   I’ll sing, I’ll sing, it’s my only weapon.
