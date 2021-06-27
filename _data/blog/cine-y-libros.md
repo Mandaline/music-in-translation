@@ -10,7 +10,7 @@ thumbnail: /assets/franny.jpg
 ---
 Uruguayan indie songs and films are filled with quiet observations about human relationships. In this song we review moments in a park, changing habits, and gossip amongst friends as a relationship evolves from admiration to boredom to finally "we don't say hi anymore."
 
-At the end the pair involved still seem to know everything about each other. This could be the result of social media, or due to the closely connected social circles that exist in Montevideo, a capital city that feels more like a small town.
+At the end the pair involved still seem to know everything about each other. This could be the result of social media, or due to the closely connected social circles that exist in Montevideo, a capital city with a small town vibe.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iCMIbQJ9DWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
