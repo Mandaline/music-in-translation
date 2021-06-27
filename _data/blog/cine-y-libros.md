@@ -41,7 +41,7 @@ thumbnail: /assets/franny.jpg
 
    No recuerdo como fue
 
-   I don’t remember who it was
+   I don’t remember how it went
 2. \#7
 
    Si fue algún conocido
