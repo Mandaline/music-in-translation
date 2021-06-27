@@ -234,4 +234,10 @@ At the end the pair involved still seem to know everything about each other. Thi
 
 (#1) Soler
 
-*Solía a caminar por el parque* expresses that this action was performed habitually or frequently in the past. It's possible to use the imperfect past tense to express something similar, but you would need a reference to time, for example: *Caminaba por el parque todos los mañanas*.
+*Solía a caminar por el parque* expresses that this action was performed habitually or frequently in the past. It's possible to use the imperfect past tense to say the same, but a reference to time is needed, for example: *Caminaba por el parque todas las mañanas*.
+
+(#11) Animarse
+
+While this can be translated as "to feel like" or "to fancy" doing something, it also implies that the person has to be encouraged or compelled to do that thing. *Nadie se anima a dar su opinión :* No one dares to give their opinion.
+
+It's often used informally to see if anyone is up to do something. On a regional note, in Rio de la Plata Spanish, the accent falls on the last syllable of the verb: *¿Te animás a cantar?*
