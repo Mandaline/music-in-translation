@@ -229,3 +229,9 @@ At the end the pair involved still seem to know everything about each other. Thi
    Pero al menos tengo esta canción
 
    But at least I have this song
+
+
+
+(#1) Soler
+
+*Solía a caminar por el parque* expresses that this action was performed habitually or frequently in the past. It's possible to use the imperfect past tense to express something similar, but you would need a reference to time, for example: *Caminaba por el parque todos los mañanas*.
