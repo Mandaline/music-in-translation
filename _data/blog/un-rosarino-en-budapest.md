@@ -9,7 +9,7 @@ tags: []
 metaDescription: Get out your multi-colored suits and take a trip
 thumbnail: /assets/fito-paez-63.jpg
 ---
-On first read, this song seems like an anthem about escaping a provincial town—"Wait till I get out of here and explore the world!" However, it could be that Paez is actually describing a life-after-death experience: transforming into inanimate objects, singing while he’s getting closer (to what?) and leaving signs. Peaz loves to leave his songs ambiguous so it’s up to the listener to decide. In either case, it sounds like he plans to party.
+On first read, this song seems like an anthem about escaping a provincial town—"Wait till I get out of here and explore the world!" However, it could be that Paez is actually describing a life-after-death experience: transforming into inanimate objects, singing while he’s getting closer (to what?) and leaving signs. Peaz loves to leave his songs ambiguous so it’s up to the listener to decide. In either case, it sounds like he's planning to party.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xI683w7asC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
