@@ -193,7 +193,7 @@ On first read, this song seems like an anthem about escaping a provincial town‚Ä
 
 (#2) *Me vaya*
 
-Since it's not certain when he will go, *me voy* takes the subjunctive form, becoming *me vaya*.
+Since it's not certain when he will go, *me voy* takes the subjunctive form, becoming *me vaya*
 
 (#6) *Transform√°ndome*
 
