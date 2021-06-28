@@ -188,3 +188,21 @@ On first read, this song seems like an anthem about escaping a provincial town�
    Cantaré, cantaré, esa es mi única arma.
 
    I’ll sing, I’ll sing, it’s my only weapon.
+
+
+
+(#2) *Me vaya*
+
+Since it's not certain when he will go, *me voy* takes the subjunctive form, becoming *me vaya*.
+
+(#6) *Transformándome*
+
+At first, *transformar* used reflexively as *transformarme* might look like it means “transforming myself.” But the reflexive has a more passive connotation in this case and the word means simply "becoming." Add an “en” and it can translate directly as “transforming into” : *Dr. Jeckyll se transformó en Mr. Hyde*
+
+(#13) *Rosarino*
+
+Someone from Rosario, the third largest city in Argentina. Rosario is a hub for agricultural commerce and has a much slower pace of life than Buenos Aires.
+
+(#25) *Apresurarse*
+
+Another reflexive verb, this one meaning "to hurry." Again, it doesn't really mean "to hurry oneself", just hurry generally speaking. The reflexive is often used in verbs that indicate movement.
